@@ -78,3 +78,4 @@ if( class_exists( 'CSF' ) ) {
 </pre>
 
 Get more element Here: https://codestarframework.com/documentation/#/configurations
+View live demo in wordpress website: http://codestarthemes.com/plugins/codestar-framework/wp-login.php
