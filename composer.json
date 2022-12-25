@@ -1,0 +1,16 @@
+{
+    "name": "tuend-work/wp-codestar-framework",
+    "description": "Composer package for the Codestar Framework",
+    "type": "library",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "tuend-work",
+            "email": "tuend.work@gmail.com"
+        }
+    ],
+    "autoload": {
+        "classmap": ["src/"]
+    },
+    "require": {}
+}
