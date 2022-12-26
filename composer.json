@@ -3,7 +3,6 @@
     "description": "Composer package for the Codestar Framework",
     "type": "library",
     "license": "GPL-3.0-or-later",
-    "version": "1.0.1",
     "authors": [
         {
             "name": "tuend-work",
